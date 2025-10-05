@@ -32,3 +32,11 @@
   font-weight: 700;
   font-style: normal;
 }
+
+* {
+  font-family: "YekanBakh";
+}
+
+a {
+  color: var(--textPrimary);
+}
